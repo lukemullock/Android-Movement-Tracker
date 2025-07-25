@@ -39,6 +39,8 @@ bash
 
 Workout Logging: Records and categorizes workouts (e.g., running, cycling).
 
+Location Based Reminders: Users can set reminders at specific locations so they will be notified when they pass these points.
+
 ## Dependencies
 This project uses the following major dependencies:
 
