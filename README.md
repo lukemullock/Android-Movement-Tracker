@@ -36,7 +36,6 @@ Alternatively, run the following command in the terminal:
 bash
 ./gradlew build
 ## Key Features
-Step Counter: Tracks daily steps using device sensors.
 
 Workout Logging: Records and categorizes workouts (e.g., running, cycling).
 
